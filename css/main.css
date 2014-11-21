@@ -1,0 +1,31 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#dashboard {
+	width: 1130px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#logo {
+	display: block;
+	height: 100px;
+	margin: 40px auto 20px;
+}
+
+.green {
+	color: #00ad04;
+}
+
+.red {
+	color: #ff0000;
+}
+
+.yellow {
+	color: #c4b710;
+}
+
+.circleText {
+	fill: #fff;
+}
